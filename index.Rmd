@@ -121,13 +121,13 @@ output:
 
 * Voice Termination Time (VTT): interval between V1.Offset and Cl.Onset. used to measure the duration of **pre-aspiration**.
 
-* Voice Onset Time (VOT): interval between Cl.Offset and V2.Onset. Used to measure post-aspiration duration.
+* Voice Onset Time (VOT): interval between Cl.Offset and V2.Onset. Used to measure **post-aspiration** duration.
 
 ---
 
 # Results
 
-*Voice Termination Time*
+*Voice Termination Time (VTT)*
 
   * For hC-words (e.g., estado, escapa, espada), voicing ends prior to the oral closure, i.e., they are pre-aspirated.
   
@@ -143,7 +143,7 @@ output:
 
 # Results
 
-*Voice Onset Time*
+*Voice Onset Time (VOT)*
 
   * Typical VOT patterns in C-words and in hC-words: bilabial stops show the shortest VOT, velar stops the longest.
   
@@ -187,9 +187,9 @@ output:
   
 # Results
 
-  * Total duration of voiceless interval was significantly longer in hC-sequences than in intervocalic stops for both varieties and age groups. Aslo, the total duration of hC-sequences is very stable across varieties, place of articulation, and age groups: not affected by sound change.
+  * Total duration of voiceless interval was significantly longer in hC-sequences than in intervocalic stops for both varieties and age groups. Also, the total duration of hC-sequences is very stable across varieties, place of articulation, and age groups: not affected by sound change.
   
-  * No effect of age or variety on the duration of the preceding vowel, suggesting that the glottal opening gesture dies not take place later in time in younger than in older speakers. Contrary, vowels were slightly shorter when followed by a phonological /s/ + voiceless stop than when preceding intervocalic stops. This still does not support the assumpltion of vowel lengthening as a compensation for /s/ lenition.
+  * No effect of age or variety on the duration of the preceding vowel, suggesting that the glottal opening gesture does not take place later in time in younger than in older speakers. Contrary, vowels were slightly shorter when followed by a phonological /s/ + voiceless stop than when preceding intervocalic stops. This still does not support the assumption of vowel lengthening as a compensation for /s/ lenition.
   
   * Closure duration. Significant: longer duration in hC- than in C-sequences in all four groups. Effect less marked in younger WAS speakers, who also produced the longest post-aspiration. This suggests that long stop closures might have arisen previous to the sound change.
   
@@ -251,7 +251,7 @@ output:
 
 * The endpoints of the VOT-continua were identified consistently as /pata/ or /pasta/ by all four groups.
 
-* Psychometric surves of younger listeners appear to be steeper than those of the older listeners.
+* Psychometric curves of younger listeners appear to be steeper than those of the older listeners.
 
 * EA speakers show a flatter psychosometric curve than WA subjects, this difference being more marked than for older subjects.
 
